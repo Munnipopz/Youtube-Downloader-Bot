@@ -13,7 +13,7 @@
     - python3 -m bot
     
 ## Thanks ❤️
-* [Spechide](https://telegram.dog/SpEcHIDe) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot)
+* [Spechide](https://telegram.dog/SpEcHIDe) for his [AnyDlBot](https://github.com/Munnipopz/Youtube-Downloader-Bot)
 * [HasibulKabir](https://telegram.dog/HasibulKabir)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
