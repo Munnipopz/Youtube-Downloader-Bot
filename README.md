@@ -16,4 +16,5 @@
 * [Spechide](https://telegram.dog/SpEcHIDe) for his [AnyDlBot](https://github.com/Munnipopz/Youtube-Downloader-Bot)
 * [HasibulKabir](https://telegram.dog/HasibulKabir)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+### Click Below Image to Deploy
+[![Deploy](https://coursework.vschool.io/content/images/size/w2000/2018/10/heroku_logo.jpeg)](https://heroku.com/deploy?template=https://github.com/Munnipopz/Youtube-Downloader-Bot)
